@@ -1,0 +1,6 @@
+// the configured options and settings for qbm
+#define QBM_VERSION_MAJOR @QBM_VERSION_MAJOR@
+#define QBM_VERSION_MINOR @QBM_VERSION_MINOR@
+#define QBM_CONF_DIR_PATH '/etc/qbm.d'
+#define QBM_SCRIPT_PATH	  '/etc/qbm.d/scripts'
+

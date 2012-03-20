@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.6)
+project(QBM)
+set(QBM_VERSION_MAJOR 0)
+set(QBM_VERSION_MINOR 2)
+add_subdirectory(src)
